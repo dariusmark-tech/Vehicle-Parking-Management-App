@@ -26,7 +26,7 @@ A real-time parking management mobile app built with React Native + Expo, integr
 - Firebase account
 - (Optional) Android Studio for emulator testing
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone and install**
    ```bash
@@ -103,7 +103,7 @@ SmartParkingApp/
 - **Security**: Never commit real Firebase credentials. Use environment variables for production
 - **Database Rules**: Update to authenticated-only before deployment
 
-## 🚢 Production Build
+## Production Build
 
 1. Install EAS CLI: `npm install -g eas-cli`
 2. Configure: `eas build:configure`
